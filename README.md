@@ -1,2 +1,2 @@
 # Prepcourse-Henry
-Este es un repositorio de prueba del modulo 2 del Prepcourse de Henry
+Aca clone desde github a mi compu, cheto mal
